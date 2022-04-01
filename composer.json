@@ -27,7 +27,7 @@
         "spatie/flysystem-dropbox": "^1.0",
         "league/flysystem-eventable-filesystem": "^1.0",
         "league/flysystem-gridfs": "^1.0",
-        "league/flysystem-sftp": "^1.0",
+        "league/flysystem-sftp": "^2.3.1",
         "league/flysystem-webdav": "^1.0",
         "league/flysystem-ziparchive": "^1.0",
         "superbalist/flysystem-google-storage": "^7.2",
